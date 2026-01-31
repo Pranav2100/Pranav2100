@@ -41,3 +41,10 @@ I am actively seeking opportunities in:
 - GitHub: https://github.com/Pranav2100  
 - LinkedIn: https://www.linkedin.com/in/pranav--jagtap  
 - Email: pranavjagtap2151@gmail.com
+
+---
+
+## Current Focus
+- Building production-ready Python backend systems
+- Improving ML model reliability and evaluation
+- Exploring GenAI agent workflows
